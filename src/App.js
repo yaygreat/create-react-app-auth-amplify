@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Git-based CI/CD for deploying React app
+            Git-based CI/CD for deploying React apps
           </p>
           <a
             className="App-link"
